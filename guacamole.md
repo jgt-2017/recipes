@@ -2,7 +2,8 @@
 
 ## Ingriedients
 Avacado 
-lemon
+lime
 salt  
+pepper
 
 ## Instructions 
