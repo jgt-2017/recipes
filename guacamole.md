@@ -1,5 +1,8 @@
 # Gucamole 
 
-## Ingriedients 
+## Ingriedients
+Avacado 
+lemon
+salt  
 
 ## Instructions 
